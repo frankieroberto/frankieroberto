@@ -2,5 +2,5 @@
 
 I’m currently working on:
 
-* [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd) for the Office for Product Safety and Standards.
-* a [Rails port](https://github.com/UKGovernmentBEIS/govuk-design-system-rails) of the `govuk-frontend` nunjucks components.
+* [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training) for the Department for Education
+* [Find teacher training](https://github.com/DFE-Digital/find-teacher-training) for the Department for Education
