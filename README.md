@@ -6,6 +6,7 @@ I actively contribute to:
 
 * [NHS Frontend](https://github.com/nhsuk/nhsuk-frontend)
 * [NHS Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
+* [NHS Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
 * [GOV.UK Design System](http://github.com/alphagov/govuk-design-system/pulls)
 * [Government digital services list](https://github.com/x-govuk/govuk-services-list)
 * [GOV.UK Prototype Kit filters](https://github.com/x-govuk/govuk-prototype-filters)
